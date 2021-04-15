@@ -1,6 +1,7 @@
 ## Description
 
 This is a tiny (no, really tiny) wrapper for app authentication and vacancy search API on Russian hr site hh.ru.
+https://pypi.org/project/headpy/0.0.1/
 
 ## Installation
 1. Install from PYPI: `pip install headpy`
